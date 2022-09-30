@@ -1,0 +1,7 @@
+<shape
+    android:dither="true"
+    android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <padding android:left="8dp" android:top="16dp" android:right="8dp" android:bottom="16dp" />
+</shape>

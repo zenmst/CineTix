@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CineTix</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="bookButton">BOOK</string>
+    <string name="Date">RELEASE DATE</string>
+    <string name="Time">RUNTIME</string>
+    <string name="Director">DIRECTOR</string>
+    <string name="Genre">GENRE</string>
+    <string name="Language">LANGUAGE</string>
+</resources>
